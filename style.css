@@ -243,31 +243,17 @@ body {
     width: 100px;
 }
 
-/* .social-icons {
-    position: fixed;
-    top: 30%;
-    right: 3px;
-    display: flex;
-    flex-direction: column;
-    height: 50px;
-    width: 50px;
-    box-shadow: 4px 15px 35px 0px #00000040;
 
-} */
 .social-icons {
     position: sticky;
     top: 90px;
     float: right;
-    z-index: 1000;
     margin-top: -980px;
-    transition: top 0.3s ease;
     display: flex;
     flex-direction: column;
-    background-color: #fff;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
     height: 40px;
     width: 40px;
-    margin-left: 2px;
 }
 
 
